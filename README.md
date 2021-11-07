@@ -3,10 +3,11 @@ sorts Leatherworking reagents into their own categories
 
 
 ## REQUIRES ADIBAGS
-![settings](https://user-images.githubusercontent.com/1850089/139585471-e1c52878-0c36-494b-820c-d732315b60c5.png))
+![settings](https://user-images.githubusercontent.com/1850089/140662196-9e70720c-156f-42fa-b944-0729948f2bf2.png)
 
-![backpack](https://user-images.githubusercontent.com/1850089/139585364-78377ed1-48e6-4c3a-89c6-785b5cf2dec9.png)
 
-![reagent bank](https://user-images.githubusercontent.com/1850089/139585409-343b4d09-16c5-4d45-9eb8-b3b8ab2dfa70.png)
+![backpack](https://user-images.githubusercontent.com/1850089/140661565-9f6a963f-24d3-47bd-9b51-d052a32f1d03.png)
+
+![bank](https://user-images.githubusercontent.com/1850089/140662125-e95bd6fa-e45e-437f-80b5-9fb57510eee8.png)
 
 ![image](https://img.shields.io/badge/Requires-AdiBags-darkgreen)

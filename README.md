@@ -1,5 +1,5 @@
-# AdiBags Shadowlands Skinning  ![image](https://img.shields.io/github/repo-size/N6REJ/AdiBags_Shadowlands_Cooking)  [![Build Curse Release](https://github.com/N6REJ/AdiBags_Shadowlands_Cooking/actions/workflows/action.yml/badge.svg)](https://github.com/N6REJ/AdiBags_Shadowlands_Cooking/actions/workflows/action.yml)  ![image](https://img.shields.io/badge/Supports-Shadowlands-0B68D7)
-sorts Skinning reagents into their own categories
+# AdiBags Shadowlands Leatherworking  ![image](https://img.shields.io/github/repo-size/N6REJ/AdiBags_Shadowlands_Cooking)  [![Build Curse Release](https://github.com/N6REJ/AdiBags_Shadowlands_Cooking/actions/workflows/action.yml/badge.svg)](https://github.com/N6REJ/AdiBags_Shadowlands_Cooking/actions/workflows/action.yml)  ![image](https://img.shields.io/badge/Supports-Shadowlands-0B68D7)
+sorts Leatherworking reagents into their own categories
 
 
 ## REQUIRES ADIBAGS

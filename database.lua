@@ -1,4 +1,4 @@
--- AdiBags_Shadowlands_Cooking - Database
+-- AdiBags_Shadowlands_Tailoring - Database
 -- Created by @project-author@ character is Bearesquishy - dalaran please credit whenever.
 -- Source on GitHub: https://n6rej.github.io
 --
@@ -7,51 +7,37 @@ local addonName, addonTable, addon = ...
 -- Create addon table
 local db = {}
 
-db.name = "Shadowlands Cooking"
-db.desc = "Cooking items & reagents found in Shadowlands"
+db.name = "Shadowlands Tailoring"
+db.desc = "Tailoring reagents for Shadowlands"
 
 -- Filter info
 db.Filters = {
-    ["Meat"] = {
-        uiName = "Shadowlands Meat",
-        uiDesc = "Meat found in Shadowlands",
-        title = "Meat",
+    ["Tailoring"] = {
+        uiName = "Shadowlands Tailoring",
+        uiDesc = "Reagents for tailoring in Shadowlands",
+        title = "Tailoring",
         items = {
-            [172052] = true, -- Aethereal Meat
-            [172053] = true, -- Tenebrous Ribs
-            [172054] = true, -- Raw Seraphic Wing
-            [172055] = true, -- Phantasmal Haunch
-            [179314] = true, -- Creeping Crawler Meat
-            [179315] = true -- Shadowy Shank
-        }
+            [172439] = true,	-- Enchanted Lightless Silk
+            [173202] = true,	-- Shrouded Cloth
+            [173204] = true,	-- Lightless Silk
+            [177062] = true,	-- Penumbra Thread
+        },
     },
-    ["Cooking"] = {
-        uiName = "Shadowlands Cooking",
-        uiDesc = "Reagents for cooking in Shadowlands",
-        title = "Cooking",
+    ["Reagents"] = {
+        uiName = "Shadowlands crafted reagents",
+        uiDesc = "Reagents made by crafting in Shadowlands",
+        title = "Reagents",
         items = {
-            [172056] = true, -- Medley of Transplanar Spices
-            [172057] = true, -- Inconceivably Aged Vinegar
-            [172058] = true, -- Smuggled Azerothian Produce
-            [172059] = true, -- Rich Grazer Milk
-            [178786] = true -- Lusterwheat Flour
-        }
+            -- ID  = true,		--Item name
+            [173384] = true,    -- Crafter's Mark of the Chained Isle
+            [173383] = true,    -- Crafter's Mark III
+            [173382] = true,    -- Crafter's Mark II
+            [173381] = true,    -- Crafter's Mark I
+            [183942] = true,    -- Novice Mark II
+            [185960] = true,    -- Vestige of Origins
+            [178787] = true,    -- Orboreal shards
+        },
     },
-    ["Fish"] = {
-        uiName = "Shadowlands Fish",
-        uiDesc = "Fish found while fishing in Shadowlands",
-        title = "Fish",
-        items = {
-            -- ID,	--Item name
-            [173032] = true, -- Lost Sole
-            [173033] = true, -- Iridescent Amberjack
-            [173034] = true, -- Silvergill Pike
-            [173035] = true, -- Pocked Bonefish
-            [173036] = true, -- Spinefin Piranha
-            [173037] = true, -- Elysian Thade
-            [174327] = true -- Malformed Gnasher
-        }
-    }
 }
 
 -- now that db is populated lets pass it on.

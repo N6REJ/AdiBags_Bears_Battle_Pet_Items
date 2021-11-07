@@ -1,9 +1,9 @@
 ## Interface: 90105
-## Title: AdiBags - Shadowlands Tailoring
+## Title: AdiBags - Shadowlands Skinning
 ## Version: @project-version@
 ## Author: BearLeeAble
 ## X-License: MIT
-## X-Curse-Project-ID: 446531
+## X-Curse-Project-ID: 446530
 ## DefaultState: enabled
 ## Dependencies: AdiBags
 

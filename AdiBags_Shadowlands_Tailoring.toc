@@ -1,0 +1,11 @@
+## Interface: 90105
+## Title: AdiBags - Shadowlands Tailoring
+## Version: @project-version@
+## Author: BearLeeAble
+## X-License: MIT
+## X-Curse-Project-ID: 446531
+## DefaultState: enabled
+## Dependencies: AdiBags
+
+database.lua
+core.lua

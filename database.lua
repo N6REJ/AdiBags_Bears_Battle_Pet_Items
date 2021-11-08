@@ -1,4 +1,4 @@
--- AdiBags_Shadowlands_Leatherworking - Database
+-- AdiBags_Shadowlands_Blacksmithing - Database
 -- Created by @project-author@ character is Bearesquishy - dalaran please credit whenever.
 -- Source on GitHub: https://n6rej.github.io
 --
@@ -7,33 +7,33 @@ local addonName, addonTable, addon = ...
 -- Create addon table
 local db = {}
 
-db.name = "Shadowlands Leatherworking"
-db.desc = "Leatherworking reagents for Shadowlands"
+db.name = "Shadowlands Blacksmithing"
+db.desc = "Blacksmithing reagents for Shadowlands"
 
 -- Filter info
 db.Filters = {
-    ["Leather"] = {
-        uiName = "Shadowlands Leatherworking",
-        uiDesc = "Reagents for Leatherworking in Shadowlands",
-        title = "Leather",
+    ["Ore"] = {
+        uiName = "Shadowlands Mining",
+        uiDesc = "Ore found in Shadowlands",
+        title = "Ore",
         items = {
-            [172089] = true, -- Desolate Leather
-            [172092] = true, -- Pallid Bone
-            [172094] = true, -- Callous Hide
-            [172096] = true, -- Heavy Desolate Leather
-            [172097] = true, -- Heavy Callous Hide
-            [172438] = true, -- Enchanted Heavy Callous Hide
-            [177279] = true -- Gaunt Sinew
-        }
+            -- ID  = true,		--Item name
+            [171828] = true, -- Laestrite Ore
+            [171829] = true, -- Solenium Ore
+            [171830] = true, -- Oxxein Ore
+            [171831] = true, -- Phaedrum Ore
+            [171832] = true, -- Sinvyr Ore
+            [171833] = true, -- Elethium Ore
+            [171840] = true, -- Porous Stone
+            [171841] = true, -- Shaded Stone
+        },
     },
-    ["Cloth"] = {
-        uiName = "Shadowlands Tailoring",
-        uiDesc = "Reagents for tailoring in Shadowlands",
-        title = "Cloth",
+    ["Enchanting"] = {
+        uiName = "Shadowlands Enchanting",
+        uiDesc = "Reagents for Enchanting in Shadowlands",
+        title = "Enchanting",
         items = {
-            [172439] = true, -- Enchanted Lightless Silk
-            [173202] = true, -- Shrouded Cloth
-            [173204] = true -- Lightless Silk
+            [172437] = true, -- Enchanted Elethium Bar
         }
     },
     ["Vendor_Reagents"] = {
@@ -42,10 +42,7 @@ db.Filters = {
         title = "Vendor Reagents",
         items = {
             -- ID    = true,    --Item name
-            [177062] = true, -- Penumbra Thread
             [178787] = true, -- Orboreal shards
-            [177061] = true, -- Twilight Bark
-            [183955] = true -- Curing Salt
         }
     },
     ["Crafted_Reagents"] = {
@@ -59,21 +56,10 @@ db.Filters = {
             [173382] = true, -- Crafter's Mark II
             [173381] = true, -- Crafter's Mark I
             [183942] = true, -- Novice Mark II
-            [185960] = true -- Vestige of Origins
+            [185960] = true, -- Vestige of Origins
+            [307611] = true, -- Shadowghast Ingot
         }
     },
-    ["Special_Reagents"] = {
-        uiName = "Special reagents",
-        uiDesc = "Reagents from zones in Shadowlands",
-        title = "Zone Reagents",
-        items = {
-            -- ID    = true,    --Item name
-            [172331] = true, -- Sinful Leather
-            [172332] = true, -- Necrotic Leather
-            [172330] = true, -- Unseelie Leather
-            [172333] = true -- Purified Leather
-        }
-    }
 }
 
 -- now that db is populated lets pass it on.

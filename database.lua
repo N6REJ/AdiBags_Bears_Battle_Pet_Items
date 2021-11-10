@@ -36,6 +36,15 @@ db.Filters = {
             [172437] = true, -- Enchanted Elethium Bar
         }
     },
+    ["Transmute"] = {
+        uiName = "Shadowlands Alchemy Transmute",
+        uiDesc = "Transmuted items made from herbs found in Shadowlands",
+        title = "Transmute",
+        items = {
+            -- ID  = true,		--Item name
+            [307142] = true, -- Shadowgast Ingot
+        },
+    },
     ["Vendor_Reagents"] = {
         uiName = "Shadowlands Vendor Reagents",
         uiDesc = "Reagents from vendors used in Shadowlands",
@@ -43,10 +52,12 @@ db.Filters = {
         items = {
             -- ID    = true,    --Item name
             [178787] = true, -- Orboreal shards
+            [177061] = true, -- Twilight Bark
+            [180733] = true, -- Luminous Flux
         }
     },
     ["Crafted_Reagents"] = {
-        uiName = "Shadowlands crafted reagents",
+        uiName = "Shadowlands Crafted Reagents",
         uiDesc = "Reagents made by crafting in Shadowlands",
         title = "Crafted Reagents",
         items = {
@@ -57,7 +68,6 @@ db.Filters = {
             [173381] = true, -- Crafter's Mark I
             [183942] = true, -- Novice Mark II
             [185960] = true, -- Vestige of Origins
-            [307611] = true, -- Shadowghast Ingot
         }
     },
 }

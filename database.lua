@@ -29,8 +29,8 @@ db.Filters = {
         }
     },
     ["Transmute"] = {
-        uiName = "Shadowlands Alchemy Transmute",
-        uiDesc = "Transmuted items made from herbs found in Shadowlands",
+        uiName = "Shadowlands Blacksmith Transmute",
+        uiDesc = "Transmuted items made by Blacksmiths in Shadowlands",
         title = "Transmute",
         items = {
             -- ID  = true,		--Item name
@@ -44,7 +44,8 @@ db.Filters = {
         items = {
             -- ID    = true,    --Item name
             [178787] = true, -- Orboreal shards
-            [177061] = true -- Twilight Bark
+            [177061] = true, -- Twilight Bark
+            [180733] = true, -- Luminous Flux
         }
     },
     ["Crafted_Reagents"] = {

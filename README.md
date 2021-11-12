@@ -2,11 +2,12 @@
 sorts Blacksmithing reagents into their own categories
 
 
-![settings](https://user-images.githubusercontent.com/1850089/140662196-9e70720c-156f-42fa-b944-0729948f2bf2.png)
+![image](https://user-images.githubusercontent.com/1850089/141405641-1fb356a2-57c5-49e7-b829-c2ef6375b38d.png)
 
 
-![backpack](https://user-images.githubusercontent.com/1850089/140661565-9f6a963f-24d3-47bd-9b51-d052a32f1d03.png)
+![image](https://user-images.githubusercontent.com/1850089/141405569-52145afb-4535-4837-ae6b-c49d3863fa23.png)
 
-![bank](https://user-images.githubusercontent.com/1850089/140662125-e95bd6fa-e45e-437f-80b5-9fb57510eee8.png)
+![image](https://user-images.githubusercontent.com/1850089/141405454-75bf402b-50df-45c6-b121-16a4d0a195cb.png)
+
 
 ![image](https://img.shields.io/badge/Requires-AdiBags-darkgreen)

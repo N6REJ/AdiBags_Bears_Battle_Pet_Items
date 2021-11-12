@@ -25,15 +25,7 @@ db.Filters = {
             [171832] = true, -- Sinvyr Ore
             [171833] = true, -- Elethium Ore
             [171840] = true, -- Porous Stone
-            [171841] = true, -- Shaded Stone
-        },
-    },
-    ["Enchanting"] = {
-        uiName = "Shadowlands Enchanting",
-        uiDesc = "Reagents for Enchanting in Shadowlands",
-        title = "Enchanting",
-        items = {
-            [172437] = true, -- Enchanted Elethium Bar
+            [171841] = true -- Shaded Stone
         }
     },
     ["Transmute"] = {
@@ -42,18 +34,17 @@ db.Filters = {
         title = "Transmute",
         items = {
             -- ID  = true,		--Item name
-            [307142] = true, -- Shadowgast Ingot
-        },
+            [171428] = true -- Shadowgast Ingot
+        }
     },
     ["Vendor_Reagents"] = {
-        uiName = "Shadowlands Vendor Reagents",
-        uiDesc = "Reagents from vendors used in Shadowlands",
-        title = "Vendor Reagents",
+        uiName = "Shadowlands Blacksmith Reagents",
+        uiDesc = "Blacksmithing reagents from vendors used in Shadowlands",
+        title = "Blacksmith Reagents",
         items = {
             -- ID    = true,    --Item name
             [178787] = true, -- Orboreal shards
-            [177061] = true, -- Twilight Bark
-            [180733] = true, -- Luminous Flux
+            [177061] = true -- Twilight Bark
         }
     },
     ["Crafted_Reagents"] = {
@@ -67,9 +58,9 @@ db.Filters = {
             [173382] = true, -- Crafter's Mark II
             [173381] = true, -- Crafter's Mark I
             [183942] = true, -- Novice Mark II
-            [185960] = true, -- Vestige of Origins
+            [185960] = true -- Vestige of Origins
         }
-    },
+    }
 }
 
 -- now that db is populated lets pass it on.

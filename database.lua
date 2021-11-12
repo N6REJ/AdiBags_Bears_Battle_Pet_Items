@@ -34,7 +34,7 @@ db.Filters = {
         title = "Transmute",
         items = {
             -- ID  = true,		--Item name
-            [171428] = true -- Shadowgast Ingot
+            [171428] = true -- Shadowghast Ingot
         }
     },
     ["Vendor_Reagents"] = {

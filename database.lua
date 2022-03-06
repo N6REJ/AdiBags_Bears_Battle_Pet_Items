@@ -63,7 +63,7 @@ db.Filters = {
             [185960] = true, -- Vestige of Origins
             [359703] = true, -- Vestige of the Eternal
             [187707] = true, -- Progenitor Essentia
-            [359673] = true, -- Crafter's Mark of the First Ones
+            [359671] = true, -- Crafter's Mark of the First Ones
             [359665] = true -- Crafter's Mark IV
         }
     }

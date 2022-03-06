@@ -25,7 +25,8 @@ db.Filters = {
             [171832] = true, -- Sinvyr Ore
             [171833] = true, -- Elethium Ore
             [171840] = true, -- Porous Stone
-            [171841] = true -- Shaded Stone
+            [171841] = true, -- Shaded Stone
+            [187700] = true -- Progenium Ore
         }
     },
     ["Transmute"] = {
@@ -45,7 +46,7 @@ db.Filters = {
             -- ID    = true,    --Item name
             [178787] = true, -- Orboreal shards
             [177061] = true, -- Twilight Bark
-            [180733] = true, -- Luminous Flux
+            [180733] = true -- Luminous Flux
         }
     },
     ["Crafted_Reagents"] = {
@@ -59,7 +60,11 @@ db.Filters = {
             [173382] = true, -- Crafter's Mark II
             [173381] = true, -- Crafter's Mark I
             [183942] = true, -- Novice Mark II
-            [185960] = true -- Vestige of Origins
+            [185960] = true, -- Vestige of Origins
+            [359703] = true, -- Vestige of the Eternal
+            [187707] = true, -- Progenitor Essentia
+            [359673] = true, -- Crafter's Mark of the First Ones
+            [359665] = true -- Crafter's Mark IV
         }
     }
 }

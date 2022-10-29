@@ -1,5 +1,5 @@
 ## Interface: 100000
-## Title: AdiBags - Bears Blacksmithing
+## Title: AdiBags - Bears Battle Pet Items
 ## Version: @project-version@
 ## Author: BearLeeAble
 ## X-License: MIT

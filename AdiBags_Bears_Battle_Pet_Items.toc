@@ -3,7 +3,8 @@
 ## Version: @project-version@
 ## Author: BearLeeAble
 ## X-License: MIT
-## X-Curse-Project-ID: 545326
+## X-Curse-Project-ID: 694806
+## X-Wago-ID:  WqKQW1Nx
 ## DefaultState: enabled
 ## Dependencies: AdiBags
 

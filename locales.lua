@@ -1,7 +1,4 @@
---==========
-Locales.lua
---==========
-local addonName, addonTable = ...;
 addonTable.locales = {
-  ALL = "All",
+  Shadowlands = "Shadowlands",
+  Dragonflight = "DragonFlight",
 }

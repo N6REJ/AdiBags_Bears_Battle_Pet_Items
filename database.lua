@@ -1,20 +1,24 @@
--- AdiBags_Shadowlands_Blacksmithing - Database
+-- AdiBags_Bears_Blacksmithing - Database
 -- Created by @project-author@ character is Bearesquishy - dalaran please credit whenever.
 -- Source on GitHub: https://n6rej.github.io
 --
-local addonName, addonTable, addon = ...
+local addonName, addonTable = ...;
+
+-- Get locals namse
+local L = addonTable.locales;
+local Expansion = L["SHADOWLANDS"]
 
 -- Create addon table
 local db = {}
 
-db.name = "Shadowlands Blacksmithing"
-db.desc = "Blacksmithing reagents for Shadowlands"
+db.name = "Bears Blacksmithing"
+db.desc = "Blacksmithing reagents for Bears"
 
 -- Filter info
 db.Filters = {
     ["Ore"] = {
-        uiName = "Shadowlands Mining",
-        uiDesc = "Ore found in Shadowlands",
+        uiName = "Bears Mining",
+        uiDesc = "Ore found in " .. Expansion,
         title = "Ore",
         items = {
             -- ID  = true,		--Item name
@@ -30,8 +34,8 @@ db.Filters = {
         }
     },
     ["Transmute"] = {
-        uiName = "Shadowlands Blacksmith Transmute",
-        uiDesc = "Transmuted items made by Blacksmiths in Shadowlands",
+        uiName = "Bears Blacksmith Transmute",
+        uiDesc = "Transmuted items made by Blacksmiths in " .. Expansion,
         title = "Transmute",
         items = {
             -- ID  = true,		--Item name
@@ -39,8 +43,8 @@ db.Filters = {
         }
     },
     ["Vendor_Reagents"] = {
-        uiName = "Shadowlands Blacksmith Reagents",
-        uiDesc = "Blacksmithing reagents from vendors used in Shadowlands",
+        uiName = "Bears Blacksmith Reagents",
+        uiDesc = "Blacksmithing reagents from vendors used in " .. Expansion,
         title = "Blacksmith Reagents",
         items = {
             -- ID    = true,    --Item name
@@ -50,8 +54,8 @@ db.Filters = {
         }
     },
     ["Crafted_Reagents"] = {
-        uiName = "Shadowlands Crafted Reagents",
-        uiDesc = "Reagents made by crafting in Shadowlands",
+        uiName = "Bears Crafted Reagents",
+        uiDesc = "Reagents made by crafting in " .. Expansion,
         title = "Crafted Reagents",
         items = {
             -- ID    = true,    --Item name

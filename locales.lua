@@ -3,6 +3,6 @@ Locales.lua
 --==========
 local name, addon = ...;
 addon.locales = {
-  SHADOWLANDS = "Shadowlands",
+  SHADOWLANDS = "Bears",
   Dragonflight = "DragonFlight"
 }

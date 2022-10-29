@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Size](https://img.shields.io/github/repo-size/N6REJ/AdiBags_Bears_Battle_Pet_Items)
 [![Build Curse Release](https://github.com/N6REJ/AdiBags_Bears_Battle_Pet_Items/actions/workflows/release.yml/badge.svg)](https://github.com/N6REJ/AdiBags_Bears_Battle_Pet_Items/actions/workflows/release.yml)
-[![GitHub release](https://img.shields.io/github/release/N6REJ/AdiBags_Bears_Battle_Pet_Items.svg)](https://GitHub.com/N6REJ/AdiBags_Bears_Battle Pet Items/releases/)
+[![GitHub release](https://img.shields.io/github/release/N6REJ/AdiBags_Bears_Battle_Pet_Items.svg)](https://GitHub.com/N6REJ/AdiBags_Bears_Battle_Pet_Items/releases/)
 
 ![Bears](https://img.shields.io/badge/Supports-Shadowlands-0B68D7)
 ![10.0.0](https://img.shields.io/badge/Ready_for-10.0.0-darkgreen)

@@ -10,9 +10,3 @@
 [![requires](https://img.shields.io/badge/Requires-AdiBags-brown)](https://www.curseforge.com/wow/addons/adibags)
 
 Sorts Battle Pet Items into their own categories
-
-![image](https://user-images.githubusercontent.com/1850089/141405641-1fb356a2-57c5-49e7-b829-c2ef6375b38d.png)
-
-![image](https://user-images.githubusercontent.com/1850089/141405569-52145afb-4535-4837-ae6b-c49d3863fa23.png)
-
-![image](https://user-images.githubusercontent.com/1850089/141405454-75bf402b-50df-45c6-b121-16a4d0a195cb.png)

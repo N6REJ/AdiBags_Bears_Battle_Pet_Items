@@ -1,4 +1,4 @@
--- AdiBags_Bears_Blacksmithing - Database
+-- AdiBags_Bears_Battle Pet Items - Database
 -- Created by @project-author@ character is Bearesquishy - dalaran please credit whenever.
 -- Source on GitHub: https://n6rej.github.io
 --
@@ -11,8 +11,8 @@ local Expansion = L["SHADOWLANDS"]
 -- Create addon table
 local db = {}
 
-db.name = "Bears Blacksmithing"
-db.desc = "Blacksmithing reagents for Bears"
+db.name = "Bears Battle Pet Items"
+db.desc = "Battle Pet Items reagents for Bears"
 
 -- Filter info
 db.Filters = {
@@ -44,7 +44,7 @@ db.Filters = {
     },
     ["Vendor_Reagents"] = {
         uiName = "Bears Blacksmith Reagents",
-        uiDesc = "Blacksmithing reagents from vendors used in " .. Expansion,
+        uiDesc = "Battle Pet Items reagents from vendors used in " .. Expansion,
         title = "Blacksmith Reagents",
         items = {
             -- ID    = true,    --Item name

@@ -1,16 +1,16 @@
-# AdiBags Bears Blacksmithing
+# AdiBags Bears Battle Pet Items
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![Size](https://img.shields.io/github/repo-size/N6REJ/AdiBags_Bears_Blacksmithing)
-[![Build Curse Release](https://github.com/N6REJ/AdiBags_Bears_Blacksmithing/actions/workflows/release.yml/badge.svg)](https://github.com/N6REJ/AdiBags_Bears_Blacksmithing/actions/workflows/release.yml)
-[![GitHub release](https://img.shields.io/github/release/N6REJ/AdiBags_Bears_Blacksmithing.svg)](https://GitHub.com/N6REJ/AdiBags_Bears_Blacksmithing/releases/)
+![Size](https://img.shields.io/github/repo-size/N6REJ/AdiBags_Bears_Battle_Pet_Items)
+[![Build Curse Release](https://github.com/N6REJ/AdiBags_Bears_Battle_Pet_Items/actions/workflows/release.yml/badge.svg)](https://github.com/N6REJ/AdiBags_Bears_Battle_Pet_Items/actions/workflows/release.yml)
+[![GitHub release](https://img.shields.io/github/release/N6REJ/AdiBags_Bears_Battle_Pet_Items.svg)](https://GitHub.com/N6REJ/AdiBags_Bears_Battle Pet Items/releases/)
 
 ![Bears](https://img.shields.io/badge/Supports-Shadowlands-0B68D7)
 ![10.0.0](https://img.shields.io/badge/Ready_for-10.0.0-darkgreen)
 [![curse](https://img.shields.io/badge/Curseforge_Project_ID:-545326-purple)](https://www.curseforge.com/wow/addons/adibags_shadowlands_blacksmithing)
 [![requires](https://img.shields.io/badge/Requires-AdiBags-brown)](https://www.curseforge.com/wow/addons/adibags)
 
-Sorts Blacksmithing reagents into their own categories
+Sorts Battle Pet Items reagents into their own categories
 
 ![image](https://user-images.githubusercontent.com/1850089/141405641-1fb356a2-57c5-49e7-b829-c2ef6375b38d.png)
 

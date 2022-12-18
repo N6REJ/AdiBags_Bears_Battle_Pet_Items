@@ -182,4 +182,4 @@ db.Filters = {
 }
 
 -- now that db is populated lets pass it on.
-addonTable.db = db
+addonTable.Shadowlands = db

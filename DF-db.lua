@@ -1,4 +1,4 @@
--- AdiBags Bears Battle Pet Items - Database
+-- AdiBags Bears Battle Pet Items - Dragonflight Database
 -- Created by @project-author@ character is Bearesquishy - dalaran please credit whenever.
 -- Source on GitHub: https://n6rej.github.io
 ---@type
@@ -20,7 +20,7 @@ db.Filters = {
 
 	["Chip reagents"] = {
 		uiName = "Chip Battle Pet Reagents",
-		uiDesc = "Battle Pet reagents for 'chip' in " .. Expansion,
+		uiDesc = "Battle Pet reagents for chip in " .. Expansion,
 		title = "Chip",
 		items = {
 			-- ID  = true,		-- Item name

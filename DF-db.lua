@@ -18,10 +18,10 @@ db.desc = "Reagents for pets found in " .. Expansion
 -- Filter info
 db.Filters = {
 
-	["Chip reagents"] = {
+	["Pet reagents"] = {
 		uiName = "Battle Pet Reagents",
 		uiDesc = "Battle Pet reagents in " .. Expansion,
-		title = "Chip",
+		title = "Pet Reagents",
 		items = {
 			-- ID  = true,		-- Item name
 

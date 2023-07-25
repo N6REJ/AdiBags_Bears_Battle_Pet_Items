@@ -12,15 +12,15 @@ local Expansion = E["Dragonflight"]
 -- Create addon table
 local db = {}
 
-db.name = "Bears Battle Pet Items"
-db.desc = "Battle Pet Items & reagents"
+db.name = "Bears Battle " .. Expansion .. " Pet Items"
+db.desc = "Battle Pet Items & reagents for " .. Expansion
 
 -- Filter info
 db.Filters = {
 
 	["Chip reagents"] = {
 		uiName = "Chip Battle Pet Reagents",
-		uiDesc = "Battle Pet reagents for 'chip' in " .. E,
+		uiDesc = "Battle Pet reagents for 'chip' in " .. Expansion,
 		title = "Chip",
 		items = {
 			-- ID  = true,		-- Item name

@@ -28,9 +28,9 @@ db.Filters = {
 			-- Reagents for "chip"
 			[199219] = true, 	-- Element-Infused Blood
 			[198082] = true,	-- Pre-Sentient Rock Cluster
-			[198357] = true	-- Rock of Aegis
+			[198357] = true,	-- Rock of Aegis
 		}
-	},
+	}
 }
 
 -- now that db is populated lets pass it on.

@@ -13,7 +13,7 @@ local Expansion = E["Dragonflight"]
 local db = {}
 
 db.name = "Bears Battle Pet Reagents"
-db.desc = "Reagents for pets found in " .. Expansion
+db.desc = "Reagents for battle pets found in " .. Expansion
 
 -- Filter info
 db.Filters = {
@@ -28,7 +28,7 @@ db.Filters = {
 			-- Reagents for "chip"
 			[199219] = true, 	-- Element-Infused Blood
 			[198082] = true,	-- Pre-Sentient Rock Cluster
-			[198357] = true,	-- Rock of Aegis
+			[198357] = true		-- Rock of Aegis
 		}
 	}
 }

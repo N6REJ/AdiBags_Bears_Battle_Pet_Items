@@ -30,7 +30,7 @@ db.Filters = {
 			[198082] = true,	-- Pre-Sentient Rock Cluster
 			[198357] = true,	-- Rock of Aegis
 		}
-	}
+	},
 }
 
 -- now that db is populated lets pass it on.
